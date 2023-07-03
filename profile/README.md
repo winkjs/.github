@@ -7,10 +7,8 @@ Built by the team at [Graype Systems](https://graype.in), winkJS is an endevaour
 
 Our flagship package, [winkNLP](https://github.com/winkjs/wink-nlp), is a JavaScript library for NLP. With full support for Typescript, it is designed to make development of NLP applications easier and faster. 
 
-<img src="https://github.com/winkjs/.github/tree/main/profile/images/winkjs-profile_features.png">
+![WinkNLP Features]("https://github.com/winkjs/.github/blob/main/profile/images/winkjs-profile_features.png")
 
-Along with winkNLP, we create standalone packages that draw from our decades of experience in solving real-life business problems. 
+Along with winkNLP, we create standalone packages that draw from our decades of experience in solving real-life business problems. All winkJS packages are available under the MIT license.
 
-## License
-
-All winkJS packages are licensed under the terms of the MIT license.
+Want to support winkjs? Please star winkNLP if you find it useful, and get in touch with us for tailor-made consulting on projects involving analytics, IoT and streaming.
