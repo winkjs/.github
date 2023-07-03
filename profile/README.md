@@ -1,4 +1,4 @@
-# Welcome to winkJS! [<img align="right" src="https://decisively.github.io/wink-logos/logo-title.png" width="100px" >](https://winkjs.org/)
+# Welcome to winkJS! 👋🏼
 [![Website](https://img.shields.io/static/v1?label=Website&message=winkjs.org&color=yellow)](https://winkjs.org/)
 [![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=green)](https://github.com/winkjs/wink-nlp/blob/master/CONTRIBUTING.md)
 [![Downloads](https://img.shields.io/static/v1?label=Downloads&message=~2M/Year&color=blue)](https://api.npmjs.org/downloads/point/last-year/wink-nlp,wink-helpers,wink-jaro-distance,wink-distance,wink-bm25-text-search,wink-regression-tree,wink-porter2-stemmer,wink-sentiment,wink-naive-bayes-text-classifier,wink-tokenizer,wink-nlp-utils,wink-statistics,wink-pos-tagger,wink-lexicon,wink-lemmatizer,wink-ner,wink-perceptron)
@@ -11,4 +11,4 @@ Our flagship package, [winkNLP](https://github.com/winkjs/wink-nlp), is a JavaSc
 
 Along with winkNLP, we create standalone packages that draw from our decades of experience in solving real-life business problems. All winkJS packages are available under the MIT license.
 
-**Want to support winkJS?** Please star winkNLP if you find it useful, and get in touch with us for tailor-made consulting on projects involving analytics, IoT and streaming.
+**Want to support winkJS?** Please [star winkNLP](https://github.com/winkjs/wink-nlp) if you find it useful, and [get in touch](mailto:wink@graype.in) with us for tailor-made consulting on projects involving analytics, IoT and streaming.
