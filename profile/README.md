@@ -11,4 +11,6 @@ Our flagship package, [winkNLP](https://github.com/winkjs/wink-nlp), is a JavaSc
 
 Along with winkNLP, we create standalone packages that draw from our decades of experience in solving real-life business problems. All winkJS packages are available under the MIT license.
 
+Thank you [Zulip](https://zulip.com/), [Zenhub](https://www.zenhub.com/), [Observable](https://observablehq.com/), [Coveralls](https://coveralls.io/), and [Travis CI](https://www.travis-ci.com/) for sponsoring/supporting [winkJS](https://winkjs.org/).
+
 **Want to support winkJS?** Please [star winkNLP](https://github.com/winkjs/wink-nlp) if you find it useful, and [get in touch](mailto:wink@graype.in) with us for tailor-made consulting on projects involving analytics, IoT and streaming.
