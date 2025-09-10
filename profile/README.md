@@ -11,7 +11,7 @@ Our flagship, award-winning package, [winkNLP](https://github.com/winkjs/wink-nl
 
 Along with winkNLP, we create standalone packages that draw from our decades of experience in solving real-life business problems. All winkJS packages are available under the MIT license.
 
-Thank you [Zulip](https://zulip.com/), [Zenhub](https://www.zenhub.com/), [Observable](https://observablehq.com/), and [Coveralls](https://coveralls.io/), for sponsoring/supporting [winkJS](https://winkjs.org/).
+Thank you [Zulip](https://zulip.com/), and [Coveralls](https://coveralls.io/), for sponsoring/supporting [winkJS](https://winkjs.org/).
 
 Need expert guidance? [Reach out](mailto:wink@graype.in) for tailor-made consulting on analytics, IoT, and streaming projects.
 
