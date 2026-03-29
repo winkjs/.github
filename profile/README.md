@@ -8,7 +8,7 @@ Built by the team at [Graype Systems](https://graype.in) — open-source JavaScr
 
 </div>
 
-<br/>
+
 
 ## [winkNLP](https://github.com/winkjs/wink-nlp)
 #### *Developer-friendly Natural Language Processing.*
@@ -41,7 +41,7 @@ on Observable.
 </tr>
 </table>
 
-<br/>
+
 
 ## [winkComposer](https://github.com/winkjs/composer)
 #### *Composable Streaming Intelligence.*
