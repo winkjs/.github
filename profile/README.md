@@ -1,43 +1,84 @@
+<div align="center">
+
 # Welcome to winkJS! 👋🏼
-[![Website](https://img.shields.io/static/v1?label=Website&message=winkjs.org&color=yellow)](https://winkjs.org/)
-[![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=green)](https://github.com/winkjs/wink-nlp/blob/master/CONTRIBUTING.md)
-[![Downloads](https://img.shields.io/static/v1?label=Downloads&message=>10M/Year&color=blue)](https://api.npmjs.org/downloads/point/last-year/wink-nlp,wink-helpers,wink-jaro-distance,wink-distance,wink-bm25-text-search,wink-regression-tree,wink-porter2-stemmer,wink-sentiment,wink-naive-bayes-text-classifier,wink-tokenizer,wink-nlp-utils,wink-statistics,wink-pos-tagger,wink-lexicon,wink-lemmatizer,wink-ner,wink-perceptron)
 
-Built by the team at [Graype Systems](https://graype.in), winkJS is home to open source JavaScript frameworks:
+Built by the team at [Graype Systems](https://graype.in) — open-source JavaScript libraries for NLP and streaming intelligence.
 
-## **[Wink NLP](https://github.com/winkjs/wink-nlp)**
-#### *High-performance, developer-friendly Natural Language Processing.*
+[![Website](https://img.shields.io/static/v1?label=Website&message=winkjs.org&color=yellow&style=for-the-badge)](https://winkjs.org/)
+[![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=green&style=for-the-badge)](https://github.com/winkjs/wink-nlp/blob/master/CONTRIBUTING.md)
+[![Downloads](https://img.shields.io/static/v1?label=Downloads&message=10M%2B%2FYear&color=blue&style=for-the-badge)](https://api.npmjs.org/downloads/point/last-year/wink-nlp,wink-helpers,wink-jaro-distance,wink-distance,wink-bm25-text-search,wink-regression-tree,wink-porter2-stemmer,wink-sentiment,wink-naive-bayes-text-classifier,wink-tokenizer,wink-nlp-utils,wink-statistics,wink-pos-tagger,wink-lexicon,wink-lemmatizer,wink-ner,wink-perceptron)
 
-A complete NLP pipeline — tokenization, SBD, sentiment, POS, and NER — in a single zero-dependency package with full TypeScript support. Runs identically in Node.js and web browsers. [Measure its speed](https://observablehq.com/@winkjs/how-to-measure-winknlps-speed-on-browsers) on Observable.
 
-<table>
-<tr>
-<td align="center"><strong>2M+ tokens/sec</strong><br><sub>MBP M4 Chrome</sub></td>
-<td align="center"><strong>2.9M downloads/year</strong><br><sub>zero dependencies</sub></td>
-<td align="center"><strong>~100% test coverage</strong><br><sub>#3 OpenSSF compliant</sub></td>
-<td align="center"><strong>2,750+ dependents</strong><br><sub>Node.js & browsers</sub></td>
-</tr>
-</table>
+</div>
 
-## **[Wink Composer](https://github.com/winkjs/composer)**
-#### *Composable Streaming Intelligence.*
+<br/>
 
-Turns data streams into actionable insights — simple building blocks, infinite combinations.
+## [winkNLP](https://github.com/winkjs/wink-nlp)
+#### *Developer-friendly Natural Language Processing.*
 
-Composable blocks for signal conditioning, statistics, anomaly detection, flow control, and intelligence — from Kalman filters to spiking neural networks. Express *what* you want, not *how* to build it. AI-native via its MCP Server. WIP: Core is stable with test coverage of 99+%; docs at [composer.winkjs.org](https://composer.winkjs.org).
+A high-performance NLP pipeline — tokenization, sentence boundary detection, negation
+handling, sentiment analysis, POS tagging, NER, and custom entities — in a single
+zero-dependency package with full TypeScript support. Runs identically in Node.js and
+browsers. [Run the live benchmark](https://observablehq.com/@winkjs/how-to-measure-winknlps-speed-on-browsers)
+on Observable.
 
 <table>
 <tr>
-<td align="center"><strong>36 analytics building blocks</strong><br><sub>6 categories</sub></td>
-<td align="center"><strong>1M+ msgs/sec</strong><br><sub>~100K on Raspberry Pi 5</sub></td>
-<td align="center"><strong>Edge to cloud</strong><br><sub>same code, any scale</sub></td>
-<td align="center"><strong>AI-ready</strong><br><sub>via MCP Server</sub></td>
+<td align="center">
+  <strong>2M+ tokens/sec</strong><br/>
+  <img src="https://img.shields.io/badge/MacBook_Pro_M4_%C2%B7_Chrome-9B6BB3?style=flat-square"/>
+</td>
+<td align="center">
+  <strong>2.9M downloads/year</strong><br/>
+  <img src="https://img.shields.io/badge/zero_dependencies-9B6BB3?style=flat-square"/>
+</td>
+<td align="center">
+  <strong>~100% test coverage</strong><br/>
+  <img src="https://img.shields.io/badge/%233_globally_%C2%B7_OpenSSF_adherence-9B6BB3?style=flat-square"/>
+</td>
+<td align="center">
+  <strong>2,750+ dependents</strong><br/>
+  <img src="https://img.shields.io/badge/TypeScript-9B6BB3?style=flat-square&logo=typescript&logoColor=white&labelColor=9B6BB3"/>
+  <img src="https://img.shields.io/badge/Node.js-9B6BB3?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=9B6BB3"/>
+</td>
 </tr>
 </table>
 
 <br/>
 
-We 💜 open source and believe in quality, standards, and comprehensive documentation. Everything is MIT licensed. We also maintain smaller, focused utility packages for text processing, search, similarity, and statistics.
+## [winkComposer](https://github.com/winkjs/composer)
+#### *Composable Streaming Intelligence.*
+
+From IIoT streams to actionable insight — in real time.
+Composable blocks for signal conditioning, statistics, anomaly detection, and flow
+control — from Kalman filters to spiking neural networks. Express *what* you want,
+not *how* to build it. AI-native via MCP Server. Active development: core is stable
+with 99%+ test coverage; docs at [composer.winkjs.org](https://composer.winkjs.org).
+
+<table>
+<tr>
+<td align="center">
+  <strong>36+ building blocks</strong><br/>
+  <img src="https://img.shields.io/badge/6_categories-9B6BB3?style=flat-square"/>
+</td>
+<td align="center">
+  <strong>1M+ msgs/sec</strong><br/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi_5_%C2%B7_100K_msgs%2Fsec-9B6BB3?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=9B6BB3"/>
+</td>
+<td align="center">
+  <strong>AI-native</strong><br/>
+  <img src="https://img.shields.io/badge/MCP_Server_ready-9B6BB3?style=flat-square"/>
+</td>
+<td align="center" colspan="2">
+  <strong>Edge to cloud</strong><br/>
+  <img src="https://img.shields.io/badge/same_code_%C2%B7_any_scale-9B6BB3?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+We 💜 open source and believe in quality, standards, and comprehensive documentation. Everything is MIT licensed. We also maintain focused utility packages for text processing, search, similarity, and statistics.
 
 Need expert guidance? [Reach out](mailto:wink@graype.in) for consulting on NLP, streaming analytics, IoT, and edge computing.
 
