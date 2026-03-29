@@ -8,7 +8,6 @@ Built by the team at [Graype Systems](https://graype.in) — open-source JavaScr
 [![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=green&style=for-the-badge)](https://github.com/winkjs/wink-nlp/blob/master/CONTRIBUTING.md)
 [![Downloads](https://img.shields.io/static/v1?label=Downloads&message=10M%2B%2FYear&color=blue&style=for-the-badge)](https://api.npmjs.org/downloads/point/last-year/wink-nlp,wink-helpers,wink-jaro-distance,wink-distance,wink-bm25-text-search,wink-regression-tree,wink-porter2-stemmer,wink-sentiment,wink-naive-bayes-text-classifier,wink-tokenizer,wink-nlp-utils,wink-statistics,wink-pos-tagger,wink-lexicon,wink-lemmatizer,wink-ner,wink-perceptron)
 
-
 </div>
 
 <br/>
@@ -26,20 +25,20 @@ on Observable.
 <tr>
 <td align="center">
   <strong>2M+ tokens/sec</strong><br/>
-  <img src="https://img.shields.io/badge/MacBook_Pro_M4_%C2%B7_Chrome-9B6BB3?style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MacBook+Pro+M4+%C2%B7+Chrome&color=959da5&style=flat-square"/>
 </td>
 <td align="center">
   <strong>2.9M downloads/year</strong><br/>
-  <img src="https://img.shields.io/badge/zero_dependencies-9B6BB3?style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=&message=zero+dependencies&color=959da5&style=flat-square"/>
 </td>
 <td align="center">
   <strong>~100% test coverage</strong><br/>
-  <img src="https://img.shields.io/badge/%233_globally_%C2%B7_OpenSSF_adherence-9B6BB3?style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=&message=%233+globally+%C2%B7+OpenSSF+adherence&color=959da5&style=flat-square"/>
 </td>
 <td align="center">
   <strong>2,750+ dependents</strong><br/>
-  <img src="https://img.shields.io/badge/TypeScript-9B6BB3?style=flat-square&logo=typescript&logoColor=white&labelColor=9B6BB3"/>
-  <img src="https://img.shields.io/badge/Node.js-9B6BB3?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=9B6BB3"/>
+  <img src="https://img.shields.io/badge/TypeScript-959da5?style=flat-square&logo=typescript&logoColor=white&labelColor=959da5"/>
+  <img src="https://img.shields.io/badge/Node.js-959da5?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=959da5"/>
 </td>
 </tr>
 </table>
@@ -59,19 +58,19 @@ with 99%+ test coverage; docs at [composer.winkjs.org](https://composer.winkjs.o
 <tr>
 <td align="center">
   <strong>36+ building blocks</strong><br/>
-  <img src="https://img.shields.io/badge/6_categories-9B6BB3?style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=&message=6+categories&color=959da5&style=flat-square"/>
 </td>
 <td align="center">
   <strong>1M+ msgs/sec</strong><br/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi_5_%C2%B7_100K_msgs%2Fsec-9B6BB3?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=9B6BB3"/>
+  <img src="https://img.shields.io/badge/Raspberry+Pi+5+%C2%B7+100K+msgs%2Fsec-959da5?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=959da5"/>
 </td>
 <td align="center">
   <strong>AI-native</strong><br/>
-  <img src="https://img.shields.io/badge/MCP_Server_ready-9B6BB3?style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=&message=MCP+Server+ready&color=959da5&style=flat-square"/>
 </td>
-<td align="center" colspan="2">
+<td align="center">
   <strong>Edge to cloud</strong><br/>
-  <img src="https://img.shields.io/badge/same_code_%C2%B7_any_scale-9B6BB3?style=flat-square"/>
+  <img src="https://img.shields.io/static/v1?label=&message=same+code+%C2%B7+any+scale&color=959da5&style=flat-square"/>
 </td>
 </tr>
 </table>
