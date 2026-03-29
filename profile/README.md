@@ -60,7 +60,7 @@ with 99%+ test coverage; docs at [composer.winkjs.org](https://composer.winkjs.o
 </td>
 <td align="center">
   <strong>1M+ msgs/sec</strong><br/>
-  <img src="https://img.shields.io/badge/Raspberry+Pi+5+%C2%B7+100K+msgs%2Fsec-959da5?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=959da5"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi 5 %C2%B7 100K+ msgs%2Fsec-959da5?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=959da5"/>
 </td>
 <td align="center">
   <strong>AI-native</strong><br/>
