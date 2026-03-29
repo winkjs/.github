@@ -4,8 +4,6 @@
 
 Built by the team at [Graype Systems](https://graype.in) — open-source JavaScript libraries for NLP and streaming intelligence.
 
-[![Website](https://img.shields.io/static/v1?label=Website&message=winkjs.org&color=yellow&style=for-the-badge)](https://winkjs.org/)
-[![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=green&style=for-the-badge)](https://github.com/winkjs/wink-nlp/blob/master/CONTRIBUTING.md)
 [![Downloads](https://img.shields.io/static/v1?label=Downloads&message=10M%2B%2FYear&color=blue&style=for-the-badge)](https://api.npmjs.org/downloads/point/last-year/wink-nlp,wink-helpers,wink-jaro-distance,wink-distance,wink-bm25-text-search,wink-regression-tree,wink-porter2-stemmer,wink-sentiment,wink-naive-bayes-text-classifier,wink-tokenizer,wink-nlp-utils,wink-statistics,wink-pos-tagger,wink-lexicon,wink-lemmatizer,wink-ner,wink-perceptron)
 
 </div>
