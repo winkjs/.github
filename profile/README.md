@@ -14,7 +14,7 @@ Built by [Graype Systems](https://graype.in) — rigorous tools, built from firs
 
 </div>
 
----
+<br/>
 
 ## [winkNLP](https://github.com/winkjs/wink-nlp)
 
@@ -48,9 +48,8 @@ on Observable.
 </tr>
 </table>
 
-[→ winkjs.org/wink-nlp](https://winkjs.org/wink-nlp.html)
 
----
+<br/>
 
 ## [winkComposer](https://github.com/winkjs/composer)
 
@@ -88,7 +87,7 @@ Explore the [documentation](https://composer.winkjs.org/docs) and [use cases](ht
 </tr>
 </table>
 
----
+<br/>
 
 We believe rigorous tools — engineered precisely, tested thoroughly, secured seriously — should be freely available. Everything is MIT licensed. We also maintain focused utility packages for text processing, search, similarity, and statistics: [winkjs.org/packages](https://winkjs.org/packages.html).
 
