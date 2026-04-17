@@ -6,7 +6,7 @@
 
 Built by [Graype Systems](https://graype.in) — rigorous tools, built from first principles.
 
-[winkjs.org](https://winkjs.org)  ·  [winkNLP](https://winkjs.org/wink-nlp.html)  ·  [winkComposer](https://composer.winkjs.org)
+[winkjs.org](https://winkjs.org)  ·  [winkNLP](https://nlp.winkjs.org)  ·  [winkComposer](https://composer.winkjs.org)
 
 [![Downloads](https://img.shields.io/static/v1?label=Downloads&message=10M%2B%2FYear&labelColor=1a1528&color=703C89&style=flat-square)](https://api.npmjs.org/downloads/point/last-year/wink-nlp,wink-helpers,wink-jaro-distance,wink-distance,wink-bm25-text-search,wink-regression-tree,wink-porter2-stemmer,wink-sentiment,wink-naive-bayes-text-classifier,wink-tokenizer,wink-nlp-utils,wink-statistics,wink-pos-tagger,wink-lexicon,wink-lemmatizer,wink-ner,wink-perceptron)
 [![Coverage](https://img.shields.io/badge/Coverage-~100%25-703C89?labelColor=1a1528&style=flat-square)](https://github.com/winkjs)
